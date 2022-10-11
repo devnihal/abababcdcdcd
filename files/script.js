@@ -281,6 +281,6 @@ function $formsubmit(el,e){
     var mess = el.message.value;
     var tosend = `Hi, Iam ${name} from ${loc}\n\n${mess}`;
     tosend=encodeURIComponent(tosend);
-    window.open("https://wa.link/919074124407?text="+tosend,"_blank")
+    window.open("https://wa.me/919074124407?text="+tosend,"_blank")
     el.reset();
 }
