@@ -344,4 +344,10 @@
     .prodash{
         width: 100%;
     }
+    	.price{
+		font-size:25px;
+		color:var(--theme-color);
+		text-align:center;
+		font-weight:700;
+	}
 }
