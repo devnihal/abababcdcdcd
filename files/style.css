@@ -530,3 +530,9 @@ body{
 .mightbe{
     flex-wrap: wrap;
 }
+.price{
+	font-size:30px;
+	color:var(--theme-color);
+	text-align:center;
+	font-weight:700;
+}
