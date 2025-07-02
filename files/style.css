@@ -5,9 +5,9 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 :root{
-    --theme-color:#00105e;
-    --theme-color-op:#00105e96;
-    --light-theme:#f3f5ff;
+    --theme-color:#D4C4EC;
+    --theme-color-op:#D4C4EC96;
+    --light-theme:#E7DDFF;
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
