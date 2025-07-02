@@ -7,7 +7,7 @@
 :root{
     --theme-color:#D4C4EC;
     --theme-color-op:#D4C4EC96;
-    --light-theme:#E7DDFF;
+    --light-theme:#f1ecf9;
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
